@@ -1,0 +1,140 @@
+{
+    "Claire Gute": {
+      "orders": [
+        {
+          "order_id": "CA-2016-152156",
+          "order_date": "2016-11-08T05:00:00.000Z",
+          "line_items": [
+            {
+              "product_url": "https://www.foo.com/Furniture/Bookcases/FUR-BO-10001798",
+              "revenue": 261.96
+            },
+            {
+              "product_url": "https://www.foo.com/Furniture/Chairs/FUR-CH-10000454",
+              "revenue": 731.94
+            }
+          ]
+        }
+      ]
+    },
+    "Andrew Allen": {
+      "orders": [
+        {
+          "order_id": "CA-2017-114412",
+          "order_date": "2017-04-15T04:00:00.000Z",
+          "line_items": [
+            {
+              "product_url": "https://www.foo.com/Office%20Supplies/Paper/OFF-PA-10002365",
+              "revenue": 15.552
+            }
+          ]
+        }
+      ]
+    },
+    "Irene Maddox": {
+      "orders": [
+        {
+          "order_id": "CA-2016-161389",
+          "order_date": "2016-12-05T05:00:00.000Z",
+          "line_items": [
+            {
+              "product_url": "https://www.foo.com/Office%20Supplies/Binders/OFF-BI-10003656",
+              "revenue": 407.976
+            }
+          ]
+        }
+      ]
+    },
+    "Ken Black": {
+      "orders": [
+        {
+          "order_id": "CA-2016-137330",
+          "order_date": "2016-12-09T05:00:00.000Z",
+          "line_items": [
+            {
+              "product_url": "https://www.foo.com/Office%20Supplies/Art/OFF-AR-10000246",
+              "revenue": 19.46
+            },
+            {
+              "product_url": "https://www.foo.com/Office%20Supplies/Appliances/OFF-AP-10001492",
+              "revenue": null
+            }
+          ]
+        }
+      ]
+    },
+    "Sandra Flanagan": {
+      "orders": [
+        {
+          "order_id": "US-2017-156909",
+          "order_date": "2017-07-16T04:00:00.000Z",
+          "line_items": [
+            {
+              "product_url": "https://www.foo.com/Furniture/Chairs/FUR-CH-10002774",
+              "revenue": 71.372
+            }
+          ]
+        }
+      ]
+    },
+    "Matt Abelman": {
+      "orders": [
+        {
+          "order_id": "CA-2017-107727",
+          "order_date": "2017-10-19T04:00:00.000Z",
+          "line_items": [
+            {
+              "product_url": "https://www.foo.com/Office%20Supplies/Paper/OFF-PA-10000249",
+              "revenue": 29.472
+            }
+          ]
+        }
+      ]
+    },
+    "Gene Hale": {
+      "orders": [
+        {
+          "order_id": "CA-2016-117590",
+          "order_date": "2016-12-08T05:00:00.000Z",
+          "line_items": [
+            {
+              "product_url": "https://www.foo.com/Technology/Phones/TEC-PH-10004977",
+              "revenue": 1097.544
+            },
+            {
+              "product_url": "https://www.foo.com/Furniture/Furnishings/FUR-FU-10003664",
+              "revenue": 190.92
+            }
+          ]
+        }
+      ]
+    },
+    "Linda Cazamias": {
+      "orders": [
+        {
+          "order_id": "CA-2017-120999",
+          "order_date": "2017-09-10T04:00:00.000Z",
+          "line_items": [
+            {
+              "product_url": "https://www.foo.com/Technology/Phones/TEC-PH-10004093",
+              "revenue": 147.168
+            }
+          ]
+        }
+      ]
+    },
+    "Erin Smith": {
+      "orders": [
+        {
+          "order_id": "CA-2017-139619",
+          "order_date": "2017-09-19T04:00:00.000Z",
+          "line_items": [
+            {
+              "product_url": "https://www.foo.com/Office%20Supplies/Storage/OFF-ST-10003282",
+              "revenue": 95.616
+            }
+          ]
+        }
+      ]
+    }
+  }

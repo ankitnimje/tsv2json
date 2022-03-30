@@ -1,0 +1,17 @@
+/* Scrollbar CSS */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+/* background of the scrollbar except button or resizer */
+::-webkit-scrollbar-track {
+  background-color: rgba(240, 240, 240, 0.75);
+}
+
+/* scrollbar itself */
+::-webkit-scrollbar-thumb {
+  background-color: rgba(187, 187, 187, 0.945);
+  border-radius: 20px;
+  border: 6px solid transparent;
+}
